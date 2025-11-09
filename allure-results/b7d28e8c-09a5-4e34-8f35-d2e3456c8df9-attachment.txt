@@ -1,0 +1,2 @@
+Test: test_get_single_resource
+Duration: 0.47s

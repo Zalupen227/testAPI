@@ -1,0 +1,2 @@
+Test: test_create_user
+Duration: 0.41s

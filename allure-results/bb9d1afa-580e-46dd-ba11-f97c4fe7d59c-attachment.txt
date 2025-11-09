@@ -1,0 +1,2 @@
+Test: test_registration_missing_password
+Duration: 0.92s

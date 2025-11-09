@@ -1,0 +1,2 @@
+Test: test_get_resources_list
+Duration: 0.48s

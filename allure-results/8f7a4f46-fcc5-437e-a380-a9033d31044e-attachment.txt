@@ -1,0 +1,2 @@
+Test: test_delete_user
+Duration: 0.41s

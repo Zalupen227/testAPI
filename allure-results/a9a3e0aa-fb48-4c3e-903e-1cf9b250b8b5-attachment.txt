@@ -1,0 +1,2 @@
+Test: test_successful_registration
+Duration: 0.82s

@@ -1,0 +1,2 @@
+Test: test_get_request
+Duration: 0.96s

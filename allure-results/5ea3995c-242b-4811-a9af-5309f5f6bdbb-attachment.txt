@@ -1,0 +1,2 @@
+Test: test_update_user
+Duration: 0.40s

@@ -1,0 +1,2 @@
+Test: test_get_nonexistent_user
+Duration: 0.50s
