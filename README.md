@@ -1,0 +1,1 @@
+Test project with pytest, Allure, requests. API: https://reqres.in/
