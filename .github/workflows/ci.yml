@@ -39,7 +39,7 @@ jobs:
         echo "=== Checking allure-results ==="
         find ./allure-results -name "*.json" | wc -l
         if [ $(find ./allure-results -name "*.json" | wc -l) -eq 0 ]; then
-          echo "❌ No test results found!"
+          echo "No test results found"
           exit 1
         fi
 
